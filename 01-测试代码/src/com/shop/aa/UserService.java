@@ -4,4 +4,6 @@ public interface UserService {
    void addUser();
    // test
    void cc();
+   
+    void ddd();
 }
